@@ -33,9 +33,3 @@ Este projeto é resultado do meu estudo prático, inspirado no curso da Dio, e r
 ### Autor
 
 **Vinicios Marques**
-
----
-
-Se quiser, posso também criar uma **versão ainda mais profissional do README** com **imagens, prints de tela e instruções passo a passo** que ficaria ótima para o GitHub.
-
-Quer que eu faça isso?
