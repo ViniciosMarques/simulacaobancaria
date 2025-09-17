@@ -40,7 +40,7 @@ public abstract class Conta {
         } else {
             historico.forEach(System.out::println);
         }
-        System.out.println("Saldo atual: R$" + saldo + "\n");
+        System.out.println("Saldo atual: R$ " + saldo + "\n");
     }
 
     public String getNumero() { return numero; }
